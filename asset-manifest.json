@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/digital-buisness-card/static/css/main.a44590fe.css",
+    "main.js": "/digital-buisness-card/static/js/main.cf89831b.js",
+    "static/js/787.f7346d83.chunk.js": "/digital-buisness-card/static/js/787.f7346d83.chunk.js",
+    "static/media/christina-wocintechchat-com-0Zx1bDv5BNY-unsplash.jpg": "/digital-buisness-card/static/media/christina-wocintechchat-com-0Zx1bDv5BNY-unsplash.3a4f31ccfccbf89940c3.jpg",
+    "index.html": "/digital-buisness-card/index.html",
+    "main.a44590fe.css.map": "/digital-buisness-card/static/css/main.a44590fe.css.map",
+    "main.cf89831b.js.map": "/digital-buisness-card/static/js/main.cf89831b.js.map",
+    "787.f7346d83.chunk.js.map": "/digital-buisness-card/static/js/787.f7346d83.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a44590fe.css",
+    "static/js/main.cf89831b.js"
+  ]
+}
